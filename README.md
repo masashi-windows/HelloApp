@@ -16,8 +16,5 @@ iOSでもAndroidでも、ターミナルやGit Bushなどを使ってコマン�
 
 まあとにかく、自宅のWindows(Vista)とNexus7でAndroidの開発環境が構築できて良かった、良かった！！
 
-
- <img style="max-width:50%;" alt="my image"
-        src="http://keepingblog.net/github_images/HelloApp_images/HelloApp_Debug.png">
-![HelloApp_Debug](http://keepingblog.net/github_images/HelloApp_images/HelloApp_Debug.png =250x400)
-![HelloApp_Install](http://keepingblog.net/github_images/HelloApp_images/HelloApp_Install.png)
+![HelloApp_Debug](http://keepingblog.net/github_images/HelloApp_images/HelloApp_Debug.png=250x400)
+![HelloApp_Install](http://keepingblog.net/github_images/HelloApp_images/HelloApp_Install.png=250x400)
