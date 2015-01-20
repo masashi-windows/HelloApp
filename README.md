@@ -1,4 +1,5 @@
 # HelloApp
+
 Git Bushからpushしてみた。
 
 Andorid Studioで作成したHello_World!のアプリをNexus7で確認した。
@@ -7,10 +8,10 @@ Android StudioからGitとGitHubを操作してバージョン管理をしよう
 
 やっぱり、IDE経由でGitを操作するとよく分からなくなる。
 
-iOSでもAndroidでもターミナルたGit Bushなどを使ってコマンドでGitを操作した方が分かりやすい。
+iOSでもAndroidでも、ターミナルやGit Bushなどを使ってコマンド経由でGitを操作した方が分かりやすい。
 
-無駄なエラーに悩まされず、OSが違ってもバージョン管理の方法は統一されるのでGitの操作に問題がなくなる。
+無駄なエラーに悩まされず、OSが違ってもバージョン管理の方法が統一されるので問題が起きにくく、対処も簡単だ。
 
-でも、おそらくXcodeみたいにAndroid Studioも差分を綺麗に表示したり出来るはずなので、おいおい操作になれようと思う。
+でも、おそらくXcodeみたいにAndroid Studioも差分を綺麗に表示したり出来るはずなので、おいおい慣れていこうと思う。
 
-とにかく、自宅のWindows(Vista)とNexus7でAndroidの開発環境が構築できた！！！
+まあとにかく、自宅のWindows(Vista)とNexus7でAndroidの開発環境が構築できて良かった、良かった！！
