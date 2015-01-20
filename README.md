@@ -15,3 +15,7 @@ iOSでもAndroidでも、ターミナルやGit Bushなどを使ってコマン�
 でも、おそらくXcodeみたいにAndroid Studioも差分を綺麗に表示したり出来るはずなので、おいおい慣れていこうと思う。
 
 まあとにかく、自宅のWindows(Vista)とNexus7でAndroidの開発環境が構築できて良かった、良かった！！
+
+![HelloApp_Debug](http://keepingblog.net/github_images/HelloApp_images/HelloApp_Debug.png)
+
+![HelloApp_Install](http://keepingblog.net/github_images/HelloApp_images/HelloApp_Install.png)
